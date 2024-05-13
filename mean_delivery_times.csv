@@ -1,0 +1,901 @@
+"","Region","year","month","mean_delivery_time"
+"1","Amnian Empire",2019,"January",7.07891637220259
+"2","Amnian Empire",2019,"February",6.89972144846797
+"3","Amnian Empire",2019,"March",6.80793060718711
+"4","Amnian Empire",2019,"April",6.85109114249037
+"5","Amnian Empire",2019,"May",6.81301775147929
+"6","Amnian Empire",2019,"June",6.99238578680203
+"7","Amnian Empire",2019,"July",7.09918319719953
+"8","Amnian Empire",2019,"August",6.8230303030303
+"9","Amnian Empire",2019,"September",7.12128418549346
+"10","Amnian Empire",2019,"October",6.92133492252682
+"11","Amnian Empire",2019,"November",7.31965174129353
+"12","Amnian Empire",2019,"December",6.8091697645601
+"13","Amnian Empire",2020,"January",7.11750599520384
+"14","Amnian Empire",2020,"February",7.0564617314931
+"15","Amnian Empire",2020,"March",7.18259803921569
+"16","Amnian Empire",2020,"April",6.77543424317618
+"17","Amnian Empire",2020,"May",7.24099378881988
+"18","Amnian Empire",2020,"June",7.25967540574282
+"19","Amnian Empire",2020,"July",7.00120481927711
+"20","Amnian Empire",2020,"August",7.21515892420538
+"21","Amnian Empire",2020,"September",7.05992509363296
+"22","Amnian Empire",2020,"October",7.16378316032295
+"23","Amnian Empire",2020,"November",7.25943970767357
+"24","Amnian Empire",2020,"December",7.18531889290012
+"25","Amnian Empire",2021,"January",6.78255528255528
+"26","Amnian Empire",2021,"February",6.89256198347107
+"27","Amnian Empire",2021,"March",7.00856793145655
+"28","Amnian Empire",2021,"April",6.85106382978723
+"29","Amnian Empire",2021,"May",6.96200980392157
+"30","Amnian Empire",2021,"June",70.771186440678
+"31","Amnian Empire",2021,"July",59.9987373737374
+"32","Amnian Empire",2021,"August",44.1810551558753
+"33","Amnian Empire",2021,"September",27.9104294478528
+"34","Amnian Empire",2021,"October",13.8091872791519
+"35","Amnian Empire",2021,"November",6.95817958179582
+"36","Amnian Empire",2021,"December",6.8258064516129
+"37","Amnian Empire",2022,"January",7.00118906064209
+"38","Amnian Empire",2022,"February",7.01787994891443
+"39","Amnian Empire",2022,"March",6.80981595092025
+"40","Amnian Empire",2022,"April",6.92874396135266
+"41","Amnian Empire",2022,"May",6.96028037383178
+"42","Amnian Empire",2022,"June",6.81184668989547
+"43","Amnian Empire",2022,"July",7.22592592592593
+"44","Amnian Empire",2022,"August",7.17212121212121
+"45","Amnian Empire",2022,"September",6.85103448275862
+"46","Amnian Empire",2022,"October",6.86568986568987
+"47","Amnian Empire",2022,"November",7.16005291005291
+"48","Amnian Empire",2022,"December",6.92307692307692
+"49","Amnian Empire",2023,"January",7.08612440191388
+"50","Amnian Empire",2023,"February",7.06694560669456
+"51","Amnian Empire",2023,"March",6.97867298578199
+"52","Amnian Empire",2023,"April",7.1921664626683
+"53","Amnian Empire",2023,"May",6.955042527339
+"54","Amnian Empire",2023,"June",7.0517879161529
+"55","Amnian Empire",2023,"July",6.70670037926675
+"56","Amnian Empire",2023,"August",7.19258373205742
+"57","Amnian Empire",2023,"September",6.94082125603865
+"58","Amnian Empire",2023,"October",7.16089108910891
+"59","Amnian Empire",2023,"November",7.11162790697674
+"60","Amnian Empire",2023,"December",6.96305418719212
+"61","Bloodlands Empire",2019,"January",6.92783505154639
+"62","Bloodlands Empire",2019,"February",7.10277777777778
+"63","Bloodlands Empire",2019,"March",6.98449612403101
+"64","Bloodlands Empire",2019,"April",7.15555555555556
+"65","Bloodlands Empire",2019,"May",7.02739726027397
+"66","Bloodlands Empire",2019,"June",6.6453488372093
+"67","Bloodlands Empire",2019,"July",7.1108545034642
+"68","Bloodlands Empire",2019,"August",6.96172248803828
+"69","Bloodlands Empire",2019,"September",7.02666666666667
+"70","Bloodlands Empire",2019,"October",7.08310249307479
+"71","Bloodlands Empire",2019,"November",7.47953216374269
+"72","Bloodlands Empire",2019,"December",6.88324873096447
+"73","Bloodlands Empire",2020,"January",6.63841807909604
+"74","Bloodlands Empire",2020,"February",6.91237113402062
+"75","Bloodlands Empire",2020,"March",7.10891089108911
+"76","Bloodlands Empire",2020,"April",7.24289405684755
+"77","Bloodlands Empire",2020,"May",6.91246684350133
+"78","Bloodlands Empire",2020,"June",6.56847545219638
+"79","Bloodlands Empire",2020,"July",7.33419689119171
+"80","Bloodlands Empire",2020,"August",7.10416666666667
+"81","Bloodlands Empire",2020,"September",7.0053050397878
+"82","Bloodlands Empire",2020,"October",7.17355371900826
+"83","Bloodlands Empire",2020,"November",7.16321243523316
+"84","Bloodlands Empire",2020,"December",6.81510416666667
+"85","Bloodlands Empire",2021,"January",7
+"86","Bloodlands Empire",2021,"February",6.8780487804878
+"87","Bloodlands Empire",2021,"March",7
+"88","Bloodlands Empire",2021,"April",6.83707865168539
+"89","Bloodlands Empire",2021,"May",7.04057279236277
+"90","Bloodlands Empire",2021,"June",67.017094017094
+"91","Bloodlands Empire",2021,"July",52.8928571428571
+"92","Bloodlands Empire",2021,"August",39.9396984924623
+"93","Bloodlands Empire",2021,"September",29.0968586387435
+"94","Bloodlands Empire",2021,"October",13.4613526570048
+"95","Bloodlands Empire",2021,"November",6.73190348525469
+"96","Bloodlands Empire",2021,"December",7.03807106598985
+"97","Bloodlands Empire",2022,"January",7.08433734939759
+"98","Bloodlands Empire",2022,"February",7.3936170212766
+"99","Bloodlands Empire",2022,"March",6.94311377245509
+"100","Bloodlands Empire",2022,"April",6.99485861182519
+"101","Bloodlands Empire",2022,"May",6.82105263157895
+"102","Bloodlands Empire",2022,"June",6.57029177718833
+"103","Bloodlands Empire",2022,"July",6.94488188976378
+"104","Bloodlands Empire",2022,"August",7.16372795969773
+"105","Bloodlands Empire",2022,"September",6.85878962536023
+"106","Bloodlands Empire",2022,"October",7.0997442455243
+"107","Bloodlands Empire",2022,"November",6.74301675977654
+"108","Bloodlands Empire",2022,"December",6.69836956521739
+"109","Bloodlands Empire",2023,"January",7.04724409448819
+"110","Bloodlands Empire",2023,"February",7.52046783625731
+"111","Bloodlands Empire",2023,"March",6.94459102902375
+"112","Bloodlands Empire",2023,"April",6.68668407310705
+"113","Bloodlands Empire",2023,"May",6.87468030690537
+"114","Bloodlands Empire",2023,"June",7.28132992327366
+"115","Bloodlands Empire",2023,"July",7.08816120906801
+"116","Bloodlands Empire",2023,"August",6.86104218362283
+"117","Bloodlands Empire",2023,"September",7.25647668393782
+"118","Bloodlands Empire",2023,"October",7.42372881355932
+"119","Bloodlands Empire",2023,"November",6.85826771653543
+"120","Bloodlands Empire",2023,"December",6.51891891891892
+"121","Calim Empire",2019,"January",6.93644859813084
+"122","Calim Empire",2019,"February",6.91321499013807
+"123","Calim Empire",2019,"March",7.16725352112676
+"124","Calim Empire",2019,"April",7.17733089579525
+"125","Calim Empire",2019,"May",6.72436974789916
+"126","Calim Empire",2019,"June",7.20964749536178
+"127","Calim Empire",2019,"July",6.92066115702479
+"128","Calim Empire",2019,"August",7.07758620689655
+"129","Calim Empire",2019,"September",7.06909090909091
+"130","Calim Empire",2019,"October",6.8
+"131","Calim Empire",2019,"November",7.26833976833977
+"132","Calim Empire",2019,"December",7.28859060402685
+"133","Calim Empire",2020,"January",7.15537190082645
+"134","Calim Empire",2020,"February",7.19795918367347
+"135","Calim Empire",2020,"March",6.95414462081129
+"136","Calim Empire",2020,"April",7.10977701543739
+"137","Calim Empire",2020,"May",6.97586206896552
+"138","Calim Empire",2020,"June",6.9822695035461
+"139","Calim Empire",2020,"July",7.20292207792208
+"140","Calim Empire",2020,"August",6.80968858131488
+"141","Calim Empire",2020,"September",7.00180505415162
+"142","Calim Empire",2020,"October",7.26962457337884
+"143","Calim Empire",2020,"November",6.81597222222222
+"144","Calim Empire",2020,"December",6.73665480427046
+"145","Calim Empire",2021,"January",6.98952879581152
+"146","Calim Empire",2021,"February",7.46994535519126
+"147","Calim Empire",2021,"March",6.91077441077441
+"148","Calim Empire",2021,"April",7.04502814258912
+"149","Calim Empire",2021,"May",7.08695652173913
+"150","Calim Empire",2021,"June",71.2765598650928
+"151","Calim Empire",2021,"July",55.5063520871143
+"152","Calim Empire",2021,"August",41.8622448979592
+"153","Calim Empire",2021,"September",28.6919014084507
+"154","Calim Empire",2021,"October",13.4024179620035
+"155","Calim Empire",2021,"November",6.80225988700565
+"156","Calim Empire",2021,"December",6.90646258503401
+"157","Calim Empire",2022,"January",6.83220338983051
+"158","Calim Empire",2022,"February",6.99271402550091
+"159","Calim Empire",2022,"March",7.24273504273504
+"160","Calim Empire",2022,"April",7.19402985074627
+"161","Calim Empire",2022,"May",7.32604373757455
+"162","Calim Empire",2022,"June",7.00749063670412
+"163","Calim Empire",2022,"July",6.88679245283019
+"164","Calim Empire",2022,"August",6.53391304347826
+"165","Calim Empire",2022,"September",7.053264604811
+"166","Calim Empire",2022,"October",6.87910189982729
+"167","Calim Empire",2022,"November",7.26755218216319
+"168","Calim Empire",2022,"December",6.80102040816327
+"169","Calim Empire",2023,"January",7.3016157989228
+"170","Calim Empire",2023,"February",6.61320754716981
+"171","Calim Empire",2023,"March",7.44093178036606
+"172","Calim Empire",2023,"April",7.14081996434938
+"173","Calim Empire",2023,"May",7.06814310051107
+"174","Calim Empire",2023,"June",7.00679117147708
+"175","Calim Empire",2023,"July",7.28628230616302
+"176","Calim Empire",2023,"August",6.97807757166948
+"177","Calim Empire",2023,"September",7.1286449399657
+"178","Calim Empire",2023,"October",7.08214285714286
+"179","Calim Empire",2023,"November",7.29230769230769
+"180","Calim Empire",2023,"December",7.00844594594595
+"181","Dwarven Empire",2019,"January",6.94358974358974
+"182","Dwarven Empire",2019,"February",7.53548387096774
+"183","Dwarven Empire",2019,"March",6.91052631578947
+"184","Dwarven Empire",2019,"April",7.09467455621302
+"185","Dwarven Empire",2019,"May",7.11229946524064
+"186","Dwarven Empire",2019,"June",7.39735099337748
+"187","Dwarven Empire",2019,"July",7.26219512195122
+"188","Dwarven Empire",2019,"August",6.66666666666667
+"189","Dwarven Empire",2019,"September",7.26553672316384
+"190","Dwarven Empire",2019,"October",6.19879518072289
+"191","Dwarven Empire",2019,"November",7.25287356321839
+"192","Dwarven Empire",2019,"December",6.59393939393939
+"193","Dwarven Empire",2020,"January",6.86096256684492
+"194","Dwarven Empire",2020,"February",6.41899441340782
+"195","Dwarven Empire",2020,"March",6.27950310559006
+"196","Dwarven Empire",2020,"April",7.21686746987952
+"197","Dwarven Empire",2020,"May",7.26506024096386
+"198","Dwarven Empire",2020,"June",7.57142857142857
+"199","Dwarven Empire",2020,"July",7.11940298507463
+"200","Dwarven Empire",2020,"August",7.11728395061728
+"201","Dwarven Empire",2020,"September",6.96954314720812
+"202","Dwarven Empire",2020,"October",6.69587628865979
+"203","Dwarven Empire",2020,"November",6.86826347305389
+"204","Dwarven Empire",2020,"December",7.6
+"205","Dwarven Empire",2021,"January",7.22950819672131
+"206","Dwarven Empire",2021,"February",7.42857142857143
+"207","Dwarven Empire",2021,"March",7.13157894736842
+"208","Dwarven Empire",2021,"April",6.76363636363636
+"209","Dwarven Empire",2021,"May",6.58441558441558
+"210","Dwarven Empire",2021,"June",50.622754491018
+"211","Dwarven Empire",2021,"July",46.5227272727273
+"212","Dwarven Empire",2021,"August",42.0506329113924
+"213","Dwarven Empire",2021,"September",28.8117647058824
+"214","Dwarven Empire",2021,"October",14.8783068783069
+"215","Dwarven Empire",2021,"November",7.57954545454545
+"216","Dwarven Empire",2021,"December",6.88622754491018
+"217","Dwarven Empire",2022,"January",7.3
+"218","Dwarven Empire",2022,"February",6.83225806451613
+"219","Dwarven Empire",2022,"March",7.00492610837438
+"220","Dwarven Empire",2022,"April",7.31666666666667
+"221","Dwarven Empire",2022,"May",6.9438202247191
+"222","Dwarven Empire",2022,"June",7.62209302325581
+"223","Dwarven Empire",2022,"July",7.53012048192771
+"224","Dwarven Empire",2022,"August",6.79781420765027
+"225","Dwarven Empire",2022,"September",6.27878787878788
+"226","Dwarven Empire",2022,"October",6.55345911949686
+"227","Dwarven Empire",2022,"November",7.06382978723404
+"228","Dwarven Empire",2022,"December",6.59880239520958
+"229","Dwarven Empire",2023,"January",7.1875
+"230","Dwarven Empire",2023,"February",7.12962962962963
+"231","Dwarven Empire",2023,"March",6.66081871345029
+"232","Dwarven Empire",2023,"April",7.02366863905325
+"233","Dwarven Empire",2023,"May",6.60893854748603
+"234","Dwarven Empire",2023,"June",7.76129032258065
+"235","Dwarven Empire",2023,"July",6.54444444444444
+"236","Dwarven Empire",2023,"August",7.04705882352941
+"237","Dwarven Empire",2023,"September",7.11377245508982
+"238","Dwarven Empire",2023,"October",7.52486187845304
+"239","Dwarven Empire",2023,"November",6.86979166666667
+"240","Dwarven Empire",2023,"December",7.20689655172414
+"241","Eastern Empire",2019,"January",6.42372881355932
+"242","Eastern Empire",2019,"February",7.61702127659574
+"243","Eastern Empire",2019,"March",7.36
+"244","Eastern Empire",2019,"April",5.13207547169811
+"245","Eastern Empire",2019,"May",7.69565217391304
+"246","Eastern Empire",2019,"June",7.27272727272727
+"247","Eastern Empire",2019,"July",7.15873015873016
+"248","Eastern Empire",2019,"August",7.50877192982456
+"249","Eastern Empire",2019,"September",6.26190476190476
+"250","Eastern Empire",2019,"October",6.62745098039216
+"251","Eastern Empire",2019,"November",7.39344262295082
+"252","Eastern Empire",2019,"December",7.3015873015873
+"253","Eastern Empire",2020,"January",6.53225806451613
+"254","Eastern Empire",2020,"February",7.84615384615385
+"255","Eastern Empire",2020,"March",7.13333333333333
+"256","Eastern Empire",2020,"April",7.1875
+"257","Eastern Empire",2020,"May",7.13333333333333
+"258","Eastern Empire",2020,"June",7.30769230769231
+"259","Eastern Empire",2020,"July",7.15384615384615
+"260","Eastern Empire",2020,"August",7.85
+"261","Eastern Empire",2020,"September",7.16923076923077
+"262","Eastern Empire",2020,"October",6.32786885245902
+"263","Eastern Empire",2020,"November",6.15873015873016
+"264","Eastern Empire",2020,"December",7.12244897959184
+"265","Eastern Empire",2021,"January",7.92156862745098
+"266","Eastern Empire",2021,"February",8.07547169811321
+"267","Eastern Empire",2021,"March",6.26229508196721
+"268","Eastern Empire",2021,"April",5.87234042553191
+"269","Eastern Empire",2021,"May",6.48979591836735
+"270","Eastern Empire",2021,"June",67.9795918367347
+"271","Eastern Empire",2021,"July",53.2391304347826
+"272","Eastern Empire",2021,"August",29.6346153846154
+"273","Eastern Empire",2021,"September",27.6129032258065
+"274","Eastern Empire",2021,"October",15.9259259259259
+"275","Eastern Empire",2021,"November",6.61224489795918
+"276","Eastern Empire",2021,"December",5.88
+"277","Eastern Empire",2022,"January",6.24074074074074
+"278","Eastern Empire",2022,"February",6.78947368421053
+"279","Eastern Empire",2022,"March",7.8125
+"280","Eastern Empire",2022,"April",6.76923076923077
+"281","Eastern Empire",2022,"May",5.92307692307692
+"282","Eastern Empire",2022,"June",6.28571428571429
+"283","Eastern Empire",2022,"July",6.60377358490566
+"284","Eastern Empire",2022,"August",6.96296296296296
+"285","Eastern Empire",2022,"September",6.81481481481481
+"286","Eastern Empire",2022,"October",6.8135593220339
+"287","Eastern Empire",2022,"November",6.75
+"288","Eastern Empire",2022,"December",7.25
+"289","Eastern Empire",2023,"January",6.75409836065574
+"290","Eastern Empire",2023,"February",7.98275862068965
+"291","Eastern Empire",2023,"March",6.96875
+"292","Eastern Empire",2023,"April",7.04
+"293","Eastern Empire",2023,"May",7.37704918032787
+"294","Eastern Empire",2023,"June",7.03333333333333
+"295","Eastern Empire",2023,"July",8.03703703703704
+"296","Eastern Empire",2023,"August",6.37931034482759
+"297","Eastern Empire",2023,"September",7.0377358490566
+"298","Eastern Empire",2023,"October",7.1
+"299","Eastern Empire",2023,"November",6.64444444444444
+"300","Eastern Empire",2023,"December",7.25
+"301","Halruaan Empire",2019,"January",7.16666666666667
+"302","Halruaan Empire",2019,"February",7.0197628458498
+"303","Halruaan Empire",2019,"March",7.30683918669131
+"304","Halruaan Empire",2019,"April",7.10654205607477
+"305","Halruaan Empire",2019,"May",6.7261698440208
+"306","Halruaan Empire",2019,"June",7.01252236135957
+"307","Halruaan Empire",2019,"July",7.23550087873462
+"308","Halruaan Empire",2019,"August",6.77467411545624
+"309","Halruaan Empire",2019,"September",6.75
+"310","Halruaan Empire",2019,"October",7.07829181494662
+"311","Halruaan Empire",2019,"November",7.00729927007299
+"312","Halruaan Empire",2019,"December",7.18939393939394
+"313","Halruaan Empire",2020,"January",7.06910569105691
+"314","Halruaan Empire",2020,"February",7.02452830188679
+"315","Halruaan Empire",2020,"March",6.84267631103074
+"316","Halruaan Empire",2020,"April",6.91346153846154
+"317","Halruaan Empire",2020,"May",6.98487712665406
+"318","Halruaan Empire",2020,"June",7.16225749559083
+"319","Halruaan Empire",2020,"July",7.19157088122605
+"320","Halruaan Empire",2020,"August",7.15094339622642
+"321","Halruaan Empire",2020,"September",7.18232044198895
+"322","Halruaan Empire",2020,"October",6.96428571428571
+"323","Halruaan Empire",2020,"November",6.93122676579926
+"324","Halruaan Empire",2020,"December",6.68905950095969
+"325","Halruaan Empire",2021,"January",7.16795366795367
+"326","Halruaan Empire",2021,"February",7.08514851485149
+"327","Halruaan Empire",2021,"March",6.81678082191781
+"328","Halruaan Empire",2021,"April",6.78044596912521
+"329","Halruaan Empire",2021,"May",7.02040816326531
+"330","Halruaan Empire",2021,"June",75.65953307393
+"331","Halruaan Empire",2021,"July",56.3649122807018
+"332","Halruaan Empire",2021,"August",43.2584459459459
+"333","Halruaan Empire",2021,"September",27.984126984127
+"334","Halruaan Empire",2021,"October",13.909426987061
+"335","Halruaan Empire",2021,"November",6.8935427574171
+"336","Halruaan Empire",2021,"December",7.15555555555556
+"337","Halruaan Empire",2022,"January",6.74621848739496
+"338","Halruaan Empire",2022,"February",7.10943396226415
+"339","Halruaan Empire",2022,"March",6.99077490774908
+"340","Halruaan Empire",2022,"April",6.96840148698885
+"341","Halruaan Empire",2022,"May",6.3953488372093
+"342","Halruaan Empire",2022,"June",7.12452107279694
+"343","Halruaan Empire",2022,"July",6.73848987108656
+"344","Halruaan Empire",2022,"August",7.32135728542914
+"345","Halruaan Empire",2022,"September",7.14232902033272
+"346","Halruaan Empire",2022,"October",6.89424860853432
+"347","Halruaan Empire",2022,"November",7.25868725868726
+"348","Halruaan Empire",2022,"December",7.13810316139767
+"349","Halruaan Empire",2023,"January",6.96804511278195
+"350","Halruaan Empire",2023,"February",7.11764705882353
+"351","Halruaan Empire",2023,"March",7.07635009310987
+"352","Halruaan Empire",2023,"April",6.9
+"353","Halruaan Empire",2023,"May",7.13780918727915
+"354","Halruaan Empire",2023,"June",6.90823970037453
+"355","Halruaan Empire",2023,"July",6.72102161100196
+"356","Halruaan Empire",2023,"August",7.11599297012302
+"357","Halruaan Empire",2023,"September",6.88138686131387
+"358","Halruaan Empire",2023,"October",6.87043795620438
+"359","Halruaan Empire",2023,"November",7.35992217898833
+"360","Halruaan Empire",2023,"December",6.98211091234347
+"361","New Neverwinter Empire",2019,"January",7.33823529411765
+"362","New Neverwinter Empire",2019,"February",6.82835820895522
+"363","New Neverwinter Empire",2019,"March",7.09803921568627
+"364","New Neverwinter Empire",2019,"April",7.13194444444444
+"365","New Neverwinter Empire",2019,"May",6.36305732484076
+"366","New Neverwinter Empire",2019,"June",7.35810810810811
+"367","New Neverwinter Empire",2019,"July",7.32369942196532
+"368","New Neverwinter Empire",2019,"August",7.12592592592593
+"369","New Neverwinter Empire",2019,"September",6.42207792207792
+"370","New Neverwinter Empire",2019,"October",6.93413173652695
+"371","New Neverwinter Empire",2019,"November",6.73154362416107
+"372","New Neverwinter Empire",2019,"December",7.18787878787879
+"373","New Neverwinter Empire",2020,"January",6.61333333333333
+"374","New Neverwinter Empire",2020,"February",7.08333333333333
+"375","New Neverwinter Empire",2020,"March",7.13142857142857
+"376","New Neverwinter Empire",2020,"April",6.43624161073826
+"377","New Neverwinter Empire",2020,"May",7.01183431952663
+"378","New Neverwinter Empire",2020,"June",7.46808510638298
+"379","New Neverwinter Empire",2020,"July",6.76
+"380","New Neverwinter Empire",2020,"August",6.54777070063694
+"381","New Neverwinter Empire",2020,"September",7.55357142857143
+"382","New Neverwinter Empire",2020,"October",6.50641025641026
+"383","New Neverwinter Empire",2020,"November",7.01775147928994
+"384","New Neverwinter Empire",2020,"December",6.90243902439024
+"385","New Neverwinter Empire",2021,"January",6.50561797752809
+"386","New Neverwinter Empire",2021,"February",7
+"387","New Neverwinter Empire",2021,"March",7.1283422459893
+"388","New Neverwinter Empire",2021,"April",7.38
+"389","New Neverwinter Empire",2021,"May",6.9030303030303
+"390","New Neverwinter Empire",2021,"June",76.2388059701493
+"391","New Neverwinter Empire",2021,"July",57.878453038674
+"392","New Neverwinter Empire",2021,"August",42.5562130177515
+"393","New Neverwinter Empire",2021,"September",22.2516129032258
+"394","New Neverwinter Empire",2021,"October",12.7261146496815
+"395","New Neverwinter Empire",2021,"November",7.62420382165605
+"396","New Neverwinter Empire",2021,"December",7.65605095541401
+"397","New Neverwinter Empire",2022,"January",6.57046979865772
+"398","New Neverwinter Empire",2022,"February",7.59756097560976
+"399","New Neverwinter Empire",2022,"March",7.12345679012346
+"400","New Neverwinter Empire",2022,"April",7.09395973154362
+"401","New Neverwinter Empire",2022,"May",7.69032258064516
+"402","New Neverwinter Empire",2022,"June",6.87919463087248
+"403","New Neverwinter Empire",2022,"July",6.72611464968153
+"404","New Neverwinter Empire",2022,"August",7.35135135135135
+"405","New Neverwinter Empire",2022,"September",7.71631205673759
+"406","New Neverwinter Empire",2022,"October",6.62987012987013
+"407","New Neverwinter Empire",2022,"November",7.1280487804878
+"408","New Neverwinter Empire",2022,"December",7.04347826086957
+"409","New Neverwinter Empire",2023,"January",6.96449704142012
+"410","New Neverwinter Empire",2023,"February",7.27972027972028
+"411","New Neverwinter Empire",2023,"March",6.96428571428571
+"412","New Neverwinter Empire",2023,"April",7.02285714285714
+"413","New Neverwinter Empire",2023,"May",6.87570621468927
+"414","New Neverwinter Empire",2023,"June",6.96402877697842
+"415","New Neverwinter Empire",2023,"July",7.26771653543307
+"416","New Neverwinter Empire",2023,"August",7.8125
+"417","New Neverwinter Empire",2023,"September",7.34013605442177
+"418","New Neverwinter Empire",2023,"October",7.1280487804878
+"419","New Neverwinter Empire",2023,"November",6.90476190476191
+"420","New Neverwinter Empire",2023,"December",6.8735632183908
+"421","None Empire",2019,"January",6.62886597938144
+"422","None Empire",2019,"February",7.08888888888889
+"423","None Empire",2019,"March",6.33333333333333
+"424","None Empire",2019,"April",6.22680412371134
+"425","None Empire",2019,"May",6.72289156626506
+"426","None Empire",2019,"June",7.58333333333333
+"427","None Empire",2019,"July",7.3972602739726
+"428","None Empire",2019,"August",7.2
+"429","None Empire",2019,"September",7.4018691588785
+"430","None Empire",2019,"October",7.15
+"431","None Empire",2019,"November",6.6078431372549
+"432","None Empire",2019,"December",7.09243697478992
+"433","None Empire",2020,"January",6.52631578947368
+"434","None Empire",2020,"February",7.44705882352941
+"435","None Empire",2020,"March",7.22784810126582
+"436","None Empire",2020,"April",7.63541666666667
+"437","None Empire",2020,"May",6.93939393939394
+"438","None Empire",2020,"June",6.46913580246914
+"439","None Empire",2020,"July",7.50515463917526
+"440","None Empire",2020,"August",7.20652173913043
+"441","None Empire",2020,"September",7.52083333333333
+"442","None Empire",2020,"October",6.78888888888889
+"443","None Empire",2020,"November",7.33333333333333
+"444","None Empire",2020,"December",7.0625
+"445","None Empire",2021,"January",6.60576923076923
+"446","None Empire",2021,"February",7.72368421052632
+"447","None Empire",2021,"March",7.4950495049505
+"448","None Empire",2021,"April",7.44
+"449","None Empire",2021,"May",7.51086956521739
+"450","None Empire",2021,"June",81.89
+"451","None Empire",2021,"July",64.2235294117647
+"452","None Empire",2021,"August",43.3409090909091
+"453","None Empire",2021,"September",26.9873417721519
+"454","None Empire",2021,"October",12.4947368421053
+"455","None Empire",2021,"November",6.86734693877551
+"456","None Empire",2021,"December",6.86734693877551
+"457","None Empire",2022,"January",7.79569892473118
+"458","None Empire",2022,"February",7.6025641025641
+"459","None Empire",2022,"March",6.90322580645161
+"460","None Empire",2022,"April",7
+"461","None Empire",2022,"May",7.13861386138614
+"462","None Empire",2022,"June",6.83177570093458
+"463","None Empire",2022,"July",6.6530612244898
+"464","None Empire",2022,"August",7.02105263157895
+"465","None Empire",2022,"September",6.78571428571429
+"466","None Empire",2022,"October",7.02
+"467","None Empire",2022,"November",5.95454545454545
+"468","None Empire",2022,"December",6.95454545454545
+"469","None Empire",2023,"January",6.25
+"470","None Empire",2023,"February",7.19191919191919
+"471","None Empire",2023,"March",7.45454545454545
+"472","None Empire",2023,"April",6.29761904761905
+"473","None Empire",2023,"May",6.70093457943925
+"474","None Empire",2023,"June",7.50561797752809
+"475","None Empire",2023,"July",6.96
+"476","None Empire",2023,"August",7.16949152542373
+"477","None Empire",2023,"September",7.02173913043478
+"478","None Empire",2023,"October",7.14893617021277
+"479","None Empire",2023,"November",6.51898734177215
+"480","None Empire",2023,"December",6.90384615384615
+"481","Old Empire",2019,"January",7.34285714285714
+"482","Old Empire",2019,"February",7.27956989247312
+"483","Old Empire",2019,"March",7.45360824742268
+"484","Old Empire",2019,"April",7.04705882352941
+"485","Old Empire",2019,"May",6.64150943396226
+"486","Old Empire",2019,"June",7.27777777777778
+"487","Old Empire",2019,"July",7.02083333333333
+"488","Old Empire",2019,"August",6.69607843137255
+"489","Old Empire",2019,"September",6.25925925925926
+"490","Old Empire",2019,"October",7.32075471698113
+"491","Old Empire",2019,"November",7.19626168224299
+"492","Old Empire",2019,"December",6.8780487804878
+"493","Old Empire",2020,"January",7.01923076923077
+"494","Old Empire",2020,"February",7.51546391752577
+"495","Old Empire",2020,"March",6.99029126213592
+"496","Old Empire",2020,"April",6.875
+"497","Old Empire",2020,"May",7.08510638297872
+"498","Old Empire",2020,"June",7.18478260869565
+"499","Old Empire",2020,"July",6.70114942528736
+"500","Old Empire",2020,"August",7.10091743119266
+"501","Old Empire",2020,"September",7.07
+"502","Old Empire",2020,"October",7.02941176470588
+"503","Old Empire",2020,"November",7.66336633663366
+"504","Old Empire",2020,"December",6.14634146341463
+"505","Old Empire",2021,"January",7.65137614678899
+"506","Old Empire",2021,"February",6.95744680851064
+"507","Old Empire",2021,"March",7.22619047619048
+"508","Old Empire",2021,"April",6.75581395348837
+"509","Old Empire",2021,"May",6.65263157894737
+"510","Old Empire",2021,"June",68.7021276595745
+"511","Old Empire",2021,"July",52.1808510638298
+"512","Old Empire",2021,"August",34.4827586206897
+"513","Old Empire",2021,"September",29
+"514","Old Empire",2021,"October",14.2432432432432
+"515","Old Empire",2021,"November",7.18965517241379
+"516","Old Empire",2021,"December",7.48148148148148
+"517","Old Empire",2022,"January",7.91089108910891
+"518","Old Empire",2022,"February",6.55813953488372
+"519","Old Empire",2022,"March",6.78723404255319
+"520","Old Empire",2022,"April",6.93181818181818
+"521","Old Empire",2022,"May",5.57943925233645
+"522","Old Empire",2022,"June",7.11428571428571
+"523","Old Empire",2022,"July",7.12371134020619
+"524","Old Empire",2022,"August",7.4020618556701
+"525","Old Empire",2022,"September",6.98989898989899
+"526","Old Empire",2022,"October",7.36190476190476
+"527","Old Empire",2022,"November",6.76237623762376
+"528","Old Empire",2022,"December",7.34020618556701
+"529","Old Empire",2023,"January",7.44117647058824
+"530","Old Empire",2023,"February",6.74074074074074
+"531","Old Empire",2023,"March",6.8989898989899
+"532","Old Empire",2023,"April",7.04761904761905
+"533","Old Empire",2023,"May",7.29166666666667
+"534","Old Empire",2023,"June",6.70588235294118
+"535","Old Empire",2023,"July",6.75268817204301
+"536","Old Empire",2023,"August",6.62857142857143
+"537","Old Empire",2023,"September",6.90361445783132
+"538","Old Empire",2023,"October",6.9537037037037
+"539","Old Empire",2023,"November",6.7752808988764
+"540","Old Empire",2023,"December",6.67961165048544
+"541","Purple Dragon Empire",2019,"January",7.03429602888087
+"542","Purple Dragon Empire",2019,"February",6.99377593360996
+"543","Purple Dragon Empire",2019,"March",7.13188647746244
+"544","Purple Dragon Empire",2019,"April",6.89810017271157
+"545","Purple Dragon Empire",2019,"May",6.8175313059034
+"546","Purple Dragon Empire",2019,"June",7.18613138686131
+"547","Purple Dragon Empire",2019,"July",6.89850249584027
+"548","Purple Dragon Empire",2019,"August",7.0146252285192
+"549","Purple Dragon Empire",2019,"September",6.95728155339806
+"550","Purple Dragon Empire",2019,"October",6.72447325769854
+"551","Purple Dragon Empire",2019,"November",6.8550185873606
+"552","Purple Dragon Empire",2019,"December",7.2034188034188
+"553","Purple Dragon Empire",2020,"January",6.86824324324324
+"554","Purple Dragon Empire",2020,"February",6.96545105566219
+"555","Purple Dragon Empire",2020,"March",6.99102333931777
+"556","Purple Dragon Empire",2020,"April",7.02777777777778
+"557","Purple Dragon Empire",2020,"May",7.1594982078853
+"558","Purple Dragon Empire",2020,"June",6.91296625222025
+"559","Purple Dragon Empire",2020,"July",7.31358885017422
+"560","Purple Dragon Empire",2020,"August",6.61111111111111
+"561","Purple Dragon Empire",2020,"September",6.93761140819964
+"562","Purple Dragon Empire",2020,"October",6.95519713261649
+"563","Purple Dragon Empire",2020,"November",7.3382084095064
+"564","Purple Dragon Empire",2020,"December",7.12268907563025
+"565","Purple Dragon Empire",2021,"January",6.89119170984456
+"566","Purple Dragon Empire",2021,"February",7.41714285714286
+"567","Purple Dragon Empire",2021,"March",7.24534686971235
+"568","Purple Dragon Empire",2021,"April",7.35828877005348
+"569","Purple Dragon Empire",2021,"May",6.86912751677852
+"570","Purple Dragon Empire",2021,"June",73.6015325670498
+"571","Purple Dragon Empire",2021,"July",59.8502772643253
+"572","Purple Dragon Empire",2021,"August",42.9119170984456
+"573","Purple Dragon Empire",2021,"September",29.4454382826476
+"574","Purple Dragon Empire",2021,"October",14.0375816993464
+"575","Purple Dragon Empire",2021,"November",7.1841155234657
+"576","Purple Dragon Empire",2021,"December",6.93448275862069
+"577","Purple Dragon Empire",2022,"January",6.86280991735537
+"578","Purple Dragon Empire",2022,"February",7.06678700361011
+"579","Purple Dragon Empire",2022,"March",7.14385964912281
+"580","Purple Dragon Empire",2022,"April",6.81352459016393
+"581","Purple Dragon Empire",2022,"May",7.29159519725557
+"582","Purple Dragon Empire",2022,"June",7.02120141342756
+"583","Purple Dragon Empire",2022,"July",6.92665474060823
+"584","Purple Dragon Empire",2022,"August",7.40492957746479
+"585","Purple Dragon Empire",2022,"September",7.15577889447236
+"586","Purple Dragon Empire",2022,"October",6.95637583892617
+"587","Purple Dragon Empire",2022,"November",7.03826086956522
+"588","Purple Dragon Empire",2022,"December",7.28163992869875
+"589","Purple Dragon Empire",2023,"January",7.14874551971326
+"590","Purple Dragon Empire",2023,"February",7.29263913824057
+"591","Purple Dragon Empire",2023,"March",6.99121265377856
+"592","Purple Dragon Empire",2023,"April",7.18083182640145
+"593","Purple Dragon Empire",2023,"May",6.65833333333333
+"594","Purple Dragon Empire",2023,"June",6.84499054820416
+"595","Purple Dragon Empire",2023,"July",6.73344947735192
+"596","Purple Dragon Empire",2023,"August",6.675
+"597","Purple Dragon Empire",2023,"September",6.72996515679443
+"598","Purple Dragon Empire",2023,"October",7.13356766256591
+"599","Purple Dragon Empire",2023,"November",7.03942652329749
+"600","Purple Dragon Empire",2023,"December",6.90782608695652
+"601","Southern Empire",2019,"January",6.70967741935484
+"602","Southern Empire",2019,"February",6.3
+"603","Southern Empire",2019,"March",6.42105263157895
+"604","Southern Empire",2019,"April",6.88461538461539
+"605","Southern Empire",2019,"May",6.64285714285714
+"606","Southern Empire",2019,"June",6.88461538461539
+"607","Southern Empire",2019,"July",7.66666666666667
+"608","Southern Empire",2019,"August",8.10344827586207
+"609","Southern Empire",2019,"September",7.03225806451613
+"610","Southern Empire",2019,"October",6.14705882352941
+"611","Southern Empire",2019,"November",7.17241379310345
+"612","Southern Empire",2019,"December",7.55
+"613","Southern Empire",2020,"January",7.53846153846154
+"614","Southern Empire",2020,"February",5.96428571428571
+"615","Southern Empire",2020,"March",7.60526315789474
+"616","Southern Empire",2020,"April",6.63333333333333
+"617","Southern Empire",2020,"May",6.91176470588235
+"618","Southern Empire",2020,"June",6.26923076923077
+"619","Southern Empire",2020,"July",6.97222222222222
+"620","Southern Empire",2020,"August",6.04347826086957
+"621","Southern Empire",2020,"September",7.26829268292683
+"622","Southern Empire",2020,"October",5.83333333333333
+"623","Southern Empire",2020,"November",6.96969696969697
+"624","Southern Empire",2020,"December",6.86111111111111
+"625","Southern Empire",2021,"January",7.3
+"626","Southern Empire",2021,"February",7.29166666666667
+"627","Southern Empire",2021,"March",7.29166666666667
+"628","Southern Empire",2021,"April",6.47826086956522
+"629","Southern Empire",2021,"May",7.26086956521739
+"630","Southern Empire",2021,"June",77.8888888888889
+"631","Southern Empire",2021,"July",63.3333333333333
+"632","Southern Empire",2021,"August",43.5555555555556
+"633","Southern Empire",2021,"September",26.5
+"634","Southern Empire",2021,"October",9.7037037037037
+"635","Southern Empire",2021,"November",6.77272727272727
+"636","Southern Empire",2021,"December",7
+"637","Southern Empire",2022,"January",6.52777777777778
+"638","Southern Empire",2022,"February",7.51851851851852
+"639","Southern Empire",2022,"March",9.23333333333333
+"640","Southern Empire",2022,"April",6.58333333333333
+"641","Southern Empire",2022,"May",7.10344827586207
+"642","Southern Empire",2022,"June",6.74193548387097
+"643","Southern Empire",2022,"July",7.62162162162162
+"644","Southern Empire",2022,"August",7.44444444444444
+"645","Southern Empire",2022,"September",7.23684210526316
+"646","Southern Empire",2022,"October",7.62857142857143
+"647","Southern Empire",2022,"November",6.64285714285714
+"648","Southern Empire",2022,"December",7.04878048780488
+"649","Southern Empire",2023,"January",7.34615384615385
+"650","Southern Empire",2023,"February",6.77777777777778
+"651","Southern Empire",2023,"March",6.45
+"652","Southern Empire",2023,"April",5.96774193548387
+"653","Southern Empire",2023,"May",7.07142857142857
+"654","Southern Empire",2023,"June",6.69565217391304
+"655","Southern Empire",2023,"July",6.05882352941176
+"656","Southern Empire",2023,"August",7.29411764705882
+"657","Southern Empire",2023,"September",7.03333333333333
+"658","Southern Empire",2023,"October",6.85294117647059
+"659","Southern Empire",2023,"November",6.96
+"660","Southern Empire",2023,"December",6.57575757575758
+"661","Thayan Empire",2019,"January",7.28409090909091
+"662","Thayan Empire",2019,"February",7.34322033898305
+"663","Thayan Empire",2019,"March",7.16261682242991
+"664","Thayan Empire",2019,"April",7.07676767676768
+"665","Thayan Empire",2019,"May",6.8695652173913
+"666","Thayan Empire",2019,"June",7.414
+"667","Thayan Empire",2019,"July",7.07835051546392
+"668","Thayan Empire",2019,"August",6.70541082164329
+"669","Thayan Empire",2019,"September",6.96463654223969
+"670","Thayan Empire",2019,"October",6.97974217311234
+"671","Thayan Empire",2019,"November",6.76565656565657
+"672","Thayan Empire",2019,"December",7.11895910780669
+"673","Thayan Empire",2020,"January",6.65587044534413
+"674","Thayan Empire",2020,"February",7.06576402321083
+"675","Thayan Empire",2020,"March",7.03327171903882
+"676","Thayan Empire",2020,"April",6.99598393574297
+"677","Thayan Empire",2020,"May",7.10112359550562
+"678","Thayan Empire",2020,"June",6.38323353293413
+"679","Thayan Empire",2020,"July",6.89748201438849
+"680","Thayan Empire",2020,"August",6.79446640316206
+"681","Thayan Empire",2020,"September",7.02173913043478
+"682","Thayan Empire",2020,"October",7.01604278074866
+"683","Thayan Empire",2020,"November",6.78119001919386
+"684","Thayan Empire",2020,"December",6.79362101313321
+"685","Thayan Empire",2021,"January",6.9979633401222
+"686","Thayan Empire",2021,"February",7.29446640316206
+"687","Thayan Empire",2021,"March",7
+"688","Thayan Empire",2021,"April",7.19291338582677
+"689","Thayan Empire",2021,"May",7.033203125
+"690","Thayan Empire",2021,"June",70.7371541501976
+"691","Thayan Empire",2021,"July",60.7136929460581
+"692","Thayan Empire",2021,"August",41.7713248638838
+"693","Thayan Empire",2021,"September",29.1587591240876
+"694","Thayan Empire",2021,"October",14.2718631178707
+"695","Thayan Empire",2021,"November",7.1304347826087
+"696","Thayan Empire",2021,"December",6.82342007434944
+"697","Thayan Empire",2022,"January",6.93848857644991
+"698","Thayan Empire",2022,"February",7.36673346693387
+"699","Thayan Empire",2022,"March",7.13619402985075
+"700","Thayan Empire",2022,"April",6.79846449136276
+"701","Thayan Empire",2022,"May",7.24096385542169
+"702","Thayan Empire",2022,"June",7.12040816326531
+"703","Thayan Empire",2022,"July",6.89595375722543
+"704","Thayan Empire",2022,"August",7.17206477732794
+"705","Thayan Empire",2022,"September",7.14814814814815
+"706","Thayan Empire",2022,"October",6.95764272559853
+"707","Thayan Empire",2022,"November",6.5357833655706
+"708","Thayan Empire",2022,"December",6.74081237911025
+"709","Thayan Empire",2023,"January",7.15737051792829
+"710","Thayan Empire",2023,"February",6.53319057815846
+"711","Thayan Empire",2023,"March",7.11320754716981
+"712","Thayan Empire",2023,"April",7.25703564727955
+"713","Thayan Empire",2023,"May",7.31898238747554
+"714","Thayan Empire",2023,"June",7.17760617760618
+"715","Thayan Empire",2023,"July",7.19223985890653
+"716","Thayan Empire",2023,"August",7.10483870967742
+"717","Thayan Empire",2023,"September",6.99232245681382
+"718","Thayan Empire",2023,"October",6.84883720930233
+"719","Thayan Empire",2023,"November",6.97302904564315
+"720","Thayan Empire",2023,"December",6.83922261484099
+"721","United Moonshae Empire",2019,"January",6.9520697167756
+"722","United Moonshae Empire",2019,"February",7.36363636363636
+"723","United Moonshae Empire",2019,"March",7.01937046004843
+"724","United Moonshae Empire",2019,"April",7.01385681293303
+"725","United Moonshae Empire",2019,"May",6.47126436781609
+"726","United Moonshae Empire",2019,"June",6.58675799086758
+"727","United Moonshae Empire",2019,"July",7.1304347826087
+"728","United Moonshae Empire",2019,"August",6.90249433106576
+"729","United Moonshae Empire",2019,"September",7.15929203539823
+"730","United Moonshae Empire",2019,"October",6.86332574031891
+"731","United Moonshae Empire",2019,"November",6.67875647668394
+"732","United Moonshae Empire",2019,"December",7.04611650485437
+"733","United Moonshae Empire",2020,"January",7.11685393258427
+"734","United Moonshae Empire",2020,"February",6.97101449275362
+"735","United Moonshae Empire",2020,"March",7.0328227571116
+"736","United Moonshae Empire",2020,"April",7.0625
+"737","United Moonshae Empire",2020,"May",7.23366834170854
+"738","United Moonshae Empire",2020,"June",6.98391420911528
+"739","United Moonshae Empire",2020,"July",7.14114832535885
+"740","United Moonshae Empire",2020,"August",6.82417582417582
+"741","United Moonshae Empire",2020,"September",7.34403669724771
+"742","United Moonshae Empire",2020,"October",6.93691588785047
+"743","United Moonshae Empire",2020,"November",6.74936061381074
+"744","United Moonshae Empire",2020,"December",7.30373831775701
+"745","United Moonshae Empire",2021,"January",6.6570796460177
+"746","United Moonshae Empire",2021,"February",6.65205479452055
+"747","United Moonshae Empire",2021,"March",7.33802816901408
+"748","United Moonshae Empire",2021,"April",6.9225181598063
+"749","United Moonshae Empire",2021,"May",6.84825870646766
+"750","United Moonshae Empire",2021,"June",66.5680190930788
+"751","United Moonshae Empire",2021,"July",59.1830985915493
+"752","United Moonshae Empire",2021,"August",43.004662004662
+"753","United Moonshae Empire",2021,"September",29.1580135440181
+"754","United Moonshae Empire",2021,"October",12.9978540772532
+"755","United Moonshae Empire",2021,"November",6.49156626506024
+"756","United Moonshae Empire",2021,"December",7.18872017353579
+"757","United Moonshae Empire",2022,"January",7.02401746724891
+"758","United Moonshae Empire",2022,"February",6.97943444730077
+"759","United Moonshae Empire",2022,"March",6.69911504424779
+"760","United Moonshae Empire",2022,"April",6.94102564102564
+"761","United Moonshae Empire",2022,"May",6.89974937343358
+"762","United Moonshae Empire",2022,"June",7.12587412587413
+"763","United Moonshae Empire",2022,"July",6.79907621247113
+"764","United Moonshae Empire",2022,"August",7.07476635514019
+"765","United Moonshae Empire",2022,"September",6.98598130841121
+"766","United Moonshae Empire",2022,"October",7.6440281030445
+"767","United Moonshae Empire",2022,"November",6.99280575539568
+"768","United Moonshae Empire",2022,"December",6.95701357466063
+"769","United Moonshae Empire",2023,"January",7.55555555555556
+"770","United Moonshae Empire",2023,"February",6.7426273458445
+"771","United Moonshae Empire",2023,"March",6.72405660377358
+"772","United Moonshae Empire",2023,"April",6.84470588235294
+"773","United Moonshae Empire",2023,"May",7.12039312039312
+"774","United Moonshae Empire",2023,"June",6.85614849187935
+"775","United Moonshae Empire",2023,"July",7.36340852130326
+"776","United Moonshae Empire",2023,"August",7.05990783410138
+"777","United Moonshae Empire",2023,"September",6.97252747252747
+"778","United Moonshae Empire",2023,"October",7.29310344827586
+"779","United Moonshae Empire",2023,"November",6.94763092269327
+"780","United Moonshae Empire",2023,"December",7.07004830917874
+"781","Waterdhavian Empire",2019,"January",7.02162162162162
+"782","Waterdhavian Empire",2019,"February",7.26108374384236
+"783","Waterdhavian Empire",2019,"March",7.31979695431472
+"784","Waterdhavian Empire",2019,"April",7.68783068783069
+"785","Waterdhavian Empire",2019,"May",7.27272727272727
+"786","Waterdhavian Empire",2019,"June",6.52023121387283
+"787","Waterdhavian Empire",2019,"July",7.52083333333333
+"788","Waterdhavian Empire",2019,"August",7.07582938388626
+"789","Waterdhavian Empire",2019,"September",6.78787878787879
+"790","Waterdhavian Empire",2019,"October",7.2654028436019
+"791","Waterdhavian Empire",2019,"November",6.61650485436893
+"792","Waterdhavian Empire",2019,"December",7.11351351351351
+"793","Waterdhavian Empire",2020,"January",6.25133689839572
+"794","Waterdhavian Empire",2020,"February",7.1731843575419
+"795","Waterdhavian Empire",2020,"March",7.25555555555556
+"796","Waterdhavian Empire",2020,"April",7
+"797","Waterdhavian Empire",2020,"May",7.69312169312169
+"798","Waterdhavian Empire",2020,"June",7.48913043478261
+"799","Waterdhavian Empire",2020,"July",6.16666666666667
+"800","Waterdhavian Empire",2020,"August",6.52238805970149
+"801","Waterdhavian Empire",2020,"September",6.94943820224719
+"802","Waterdhavian Empire",2020,"October",6.89705882352941
+"803","Waterdhavian Empire",2020,"November",6.95054945054945
+"804","Waterdhavian Empire",2020,"December",7.55
+"805","Waterdhavian Empire",2021,"January",7.53367875647668
+"806","Waterdhavian Empire",2021,"February",6.50581395348837
+"807","Waterdhavian Empire",2021,"March",6.98477157360406
+"808","Waterdhavian Empire",2021,"April",7.44502617801047
+"809","Waterdhavian Empire",2021,"May",6.8031914893617
+"810","Waterdhavian Empire",2021,"June",66.3147208121827
+"811","Waterdhavian Empire",2021,"July",60.4517766497462
+"812","Waterdhavian Empire",2021,"August",41.0103092783505
+"813","Waterdhavian Empire",2021,"September",28.9030612244898
+"814","Waterdhavian Empire",2021,"October",13.1837837837838
+"815","Waterdhavian Empire",2021,"November",6.60526315789474
+"816","Waterdhavian Empire",2021,"December",6.57692307692308
+"817","Waterdhavian Empire",2022,"January",7.09230769230769
+"818","Waterdhavian Empire",2022,"February",7.27840909090909
+"819","Waterdhavian Empire",2022,"March",7.27722772277228
+"820","Waterdhavian Empire",2022,"April",7.30386740331492
+"821","Waterdhavian Empire",2022,"May",7.265
+"822","Waterdhavian Empire",2022,"June",7.02116402116402
+"823","Waterdhavian Empire",2022,"July",7.17560975609756
+"824","Waterdhavian Empire",2022,"August",7
+"825","Waterdhavian Empire",2022,"September",6.73575129533679
+"826","Waterdhavian Empire",2022,"October",6.97916666666667
+"827","Waterdhavian Empire",2022,"November",6.98947368421053
+"828","Waterdhavian Empire",2022,"December",6.48421052631579
+"829","Waterdhavian Empire",2023,"January",6.29081632653061
+"830","Waterdhavian Empire",2023,"February",6.875
+"831","Waterdhavian Empire",2023,"March",6.92270531400966
+"832","Waterdhavian Empire",2023,"April",7.2
+"833","Waterdhavian Empire",2023,"May",7.28426395939086
+"834","Waterdhavian Empire",2023,"June",6.61363636363636
+"835","Waterdhavian Empire",2023,"July",6.81025641025641
+"836","Waterdhavian Empire",2023,"August",6.70707070707071
+"837","Waterdhavian Empire",2023,"September",6.97894736842105
+"838","Waterdhavian Empire",2023,"October",6.99479166666667
+"839","Waterdhavian Empire",2023,"November",7.5125
+"840","Waterdhavian Empire",2023,"December",7.10404624277457
+"841","Western Empire",2019,"January",7.36507936507936
+"842","Western Empire",2019,"February",6.61016949152542
+"843","Western Empire",2019,"March",7.08196721311475
+"844","Western Empire",2019,"April",6.1063829787234
+"845","Western Empire",2019,"May",6.64912280701754
+"846","Western Empire",2019,"June",7.15873015873016
+"847","Western Empire",2019,"July",7.37037037037037
+"848","Western Empire",2019,"August",6.34246575342466
+"849","Western Empire",2019,"September",6.48484848484848
+"850","Western Empire",2019,"October",6.91428571428571
+"851","Western Empire",2019,"November",7.3728813559322
+"852","Western Empire",2019,"December",6.34328358208955
+"853","Western Empire",2020,"January",7.48214285714286
+"854","Western Empire",2020,"February",7.78846153846154
+"855","Western Empire",2020,"March",6.09523809523809
+"856","Western Empire",2020,"April",6.640625
+"857","Western Empire",2020,"May",7.18333333333333
+"858","Western Empire",2020,"June",5.91379310344828
+"859","Western Empire",2020,"July",7.23333333333333
+"860","Western Empire",2020,"August",7.04285714285714
+"861","Western Empire",2020,"September",7.44067796610169
+"862","Western Empire",2020,"October",6.05769230769231
+"863","Western Empire",2020,"November",7.27536231884058
+"864","Western Empire",2020,"December",6.98245614035088
+"865","Western Empire",2021,"January",6.47540983606557
+"866","Western Empire",2021,"February",7.08771929824561
+"867","Western Empire",2021,"March",6.84126984126984
+"868","Western Empire",2021,"April",7.56862745098039
+"869","Western Empire",2021,"May",7.16666666666667
+"870","Western Empire",2021,"June",68.6730769230769
+"871","Western Empire",2021,"July",65.4310344827586
+"872","Western Empire",2021,"August",38.9508196721311
+"873","Western Empire",2021,"September",30.45
+"874","Western Empire",2021,"October",12.6349206349206
+"875","Western Empire",2021,"November",7.71875
+"876","Western Empire",2021,"December",5.96491228070175
+"877","Western Empire",2022,"January",6.93421052631579
+"878","Western Empire",2022,"February",6.41176470588235
+"879","Western Empire",2022,"March",7.23287671232877
+"880","Western Empire",2022,"April",5.79545454545455
+"881","Western Empire",2022,"May",6.7536231884058
+"882","Western Empire",2022,"June",7.40983606557377
+"883","Western Empire",2022,"July",7.45901639344262
+"884","Western Empire",2022,"August",7.61818181818182
+"885","Western Empire",2022,"September",7.91228070175439
+"886","Western Empire",2022,"October",7.49056603773585
+"887","Western Empire",2022,"November",6.07843137254902
+"888","Western Empire",2022,"December",6.94029850746269
+"889","Western Empire",2023,"January",7.08695652173913
+"890","Western Empire",2023,"February",6.61904761904762
+"891","Western Empire",2023,"March",5.75438596491228
+"892","Western Empire",2023,"April",7.16
+"893","Western Empire",2023,"May",6.57333333333333
+"894","Western Empire",2023,"June",6.85245901639344
+"895","Western Empire",2023,"July",6.95652173913043
+"896","Western Empire",2023,"August",6.77777777777778
+"897","Western Empire",2023,"September",6.59677419354839
+"898","Western Empire",2023,"October",7.13333333333333
+"899","Western Empire",2023,"November",7.25714285714286
+"900","Western Empire",2023,"December",6.18333333333333
