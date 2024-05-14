@@ -1,4 +1,4 @@
-const data = [
+export const data_backend = [
   { Time: 'Jan 19',
     'Amnian Empire': 7.079,
     'Bloodlands Empire': 6.928,
@@ -1021,4 +1021,26 @@ const data = [
   },
 ];
 
-module.exports = data;
+// module.exports = data_backend;
+
+
+// Define the function to transform data_backend into polarData
+function transformData(data_backend) {
+  const polarData = [];
+
+  data_backend.forEach(entry => {
+    const date = entry.Time;
+    Object.entries(entry).forEach(([key, value]) => {
+      if (key !== 'Time') {
+        polarData.push({ empire: key, rating: value, date });
+      }
+    });
+  });
+
+  return polarData;
+}
+export const polarData = transformData(data_backend);
+
+
+
+
